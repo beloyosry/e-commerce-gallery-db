@@ -1,0 +1,208 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Reinforced",
+      "category": "Glass",
+      "price": 33.78,
+      "currency": "USD",
+      "image": {
+        "src": "https://s3-alpha-sig.figma.com/img/dfc4/b1dc/08637eb2ab4ac3cee519f86e450f713d?Expires=1694995200&Signature=qSJqMkPoGds7v6K5Qyp~QZ1LVv~7PrbHfz1UH8LFxf14DgrLDcEuyXWe4nMOlywkiJ5M44Ok-z8j-j9INVJASCtH-vQnQOP8k0LZj9b1YKi775taYgP1aJu2qOHoa5If~zVnQuZlZrwR07BgeON0uitJ6FVr6zEnaoYTMp~41svoMXGU7z8RWctrckfh6XBjnZtOp28T-orw~vJXUeyBtAMfXDP6tGU~Ww9EUMKYaVbNLKg-cR8JmaPt78xdDZfJwaxc1H~okpcB9imUov4SeP3uqFgYmFT0Mi2Sq9GeZ1aIEimy3MbFwUMbieAwmDob5hBj7Df4ZV7RypZmRguvrg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "alt": ""
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": 2,
+      "name": "Shape",
+      "category": "Steel",
+      "price": 93.89,
+      "currency": "USD",
+      "image": {
+        "src": "https://s3-alpha-sig.figma.com/img/3aa9/00c3/5a0394eae4e005329c210e14112e8d4d?Expires=1694995200&Signature=oP-4neEFbB-613dUIjxo~sQCuTPx6La~XAp8MZ3QFwQxgNsl~-rBY7kWyph9bcxq-3-fMo1m3GZyXLfokOCLlX5xq3YFYFBLRBmBrxvEeQTeWrbF48JOY8lJlt961lANtrGhqdmEQp4KYaGZ~YxG0hpdokLKGGjtd~2XRqE-DgpwXppVrUN2A854UHYNObIR9GZha9SqHdWWLUpe-4XfpInhacnjjUkJUebUMILW7Ps-LgEdrZwUwss39yA8dWZDHUU1h9IqTy2IXHCmwCeBPS26yKHNt5vJGn9eNqW--EMOZfS7VngwiZJWOB-p7EHp2rv~0ClOoTqvs2ofY7H6Dg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": 3,
+      "name": "Wave",
+      "category": "Steel",
+      "price": 120.21,
+      "currency": "USD",
+      "image": {
+        "src": "https://s3-alpha-sig.figma.com/img/fda7/8786/630da7797fa588cc5abca1b79b7e772a?Expires=1694995200&Signature=eS76pjhFT4UcyDB8yjqZ16jtPGve2KyhBP8EfWM2t6KwMVvdeaGkrgj9VArUy42muUTkx2obcgL9XDchSnxysxvfgyuJNDBvK3TaBlE9cVsJhbDTQ6iqTIszr2-NNlj6vwKRDmGi~ejCdHa1h34z9bDWpJL85Mmn8yIvkR3CPoGIfwuoLVOsu2PD4ZVFFJHy7oNgjLgm~S4Xu4nixJUp9QvcRSzZHiKJZ-GAKF9XynicCq3l0v9DSbkU6B-0n--iR6-vrMo-LCDThjR9zbFtYE3WHLcEDfwL-EoFb246aoWm7Niaj9MOra2VaEE4D-BO30qAZComaC6v5yz-VLyIzQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": 4,
+      "name": "Colored",
+      "category": "Glass",
+      "price": 100,
+      "currency": "USD",
+      "image": {
+        "src": "https://s3-alpha-sig.figma.com/img/6781/d0a9/d2436b39562e7a06c354314e0954a739?Expires=1694995200&Signature=h2Qncqhwg0889W8Bm4Tetj8B2ihqXVi1kR3z9Ibn3G6Hgx9gPId6Qb0Bna-32aAIafWsN3mi5k1BqUF5tvJ1cHHc0hSyx9FHejoD43LmFzGWDjqwoL51f5QBGwEV~ilIkOvFrg0cZ0fr22doRs1JCA0-dsOM3Q~blGBO8jkN1btY8JeTTgeR5ROWNbvrqsjjz7GjIYDTXaQ3mdS5NkbxnGxpF7S0kspPQsjwKuZN9mRIvMaFwIjgFjsc2-4ghW4KhDaLuICQFpEuSd5emrFj0zhzv6yP9wikrJSXH91GGVADimUKeqLArH34TGnZ~M1g2w25sL3825MfAVcKmp06tw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": 5,
+      "name": "RecycledPlastic",
+      "category": "Plastic",
+      "price": 101,
+      "currency": "USD",
+      "image": {
+        "src": "https://s3-alpha-sig.figma.com/img/f80d/8afc/00b142a6b4c5acdae33b76b0b5b7468e?Expires=1694995200&Signature=Z1BK5-halqMdF7dE7KHzXSrSFrTy8yQjMVcTMFalgcutyMA8ujiFmwqF37gixShSZF5Tvh4YKl25vIYKB3EKF7qDsSlkR~hpnmab3AEs9ytF43dRyRJiY8W4K~fOoSd0uc0zYTOpytQp9ZVippWa5gkFgqpvcZQAOL0lOh0SUdfTvQ4lDlZ8T7UcSQ-PWElTkvlx2gm6gQNw1tYmsEDJV5gEldXjY-9sJDy6tiR42n9kpV9C2K3lh9ql9j8kpcOeALSOAZJcWWrh3XvsuTNf~vcVXTmMQFztISPJcRP6jKIFWNYsEJYjEQK1vYflNiqxU6dDES7Xtols1tiiTmU-gw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": true,
+      "details": {
+        "weight": 2340,
+        "thickness": 2,
+        "description": "Plastic recycling is the reprocessing of plastic waste into new and useful products. When performed correctly, this can reduce dependence on landfill, conserve resources and protect the environment from plastic pollution and greenhouse gas emissions. Although recycling rates are increasing, they lag behind those of other recoverable materials, such as aluminium, glass and paper. The global recycling rate in 2015 was 19.5%, while 25.5% was incinerated and the remaining 55% disposed of to landfill. Since the beginning of plastic production in the 20th century, until 2015, the world has produced some 6.3 billion tonnes of plastic waste, only 9% of which has been recycled, and only ~1% has been recycled more than once.[6]",
+        "recommendations": [
+          {
+            "src": "https://s3-alpha-sig.figma.com/img/7e0e/443a/dbdb5707b25998cbba534cc6f73304a0?Expires=1694995200&Signature=mrGS02xEEXjyIRcw2yrlTRTE9L9aX9CLZB6crtA5Zt5BJufxgRMtRMruFmgHAyYKL2Z-fODZp1wP-mI5xhdwGcZa7aoj22hYGrHTB7qbhNaM~7rvDGiuZ5BPmPG3H0V3u84XY~9~VW7bY2uXqw5~dYhfffscq4sZwhPotijenY4xwUox5uXbHkUDZ3OP8KB2w8XYcEX5eiEs81FM1dq6BbiSWfYacuQ4Sm3VcTN475qkyg9eKuGXN-JUp0bUDu8ddcijyskG4hOuLPpob9RQ4dJOu6qkRQTd9zd0rhFVz2skOf8uf82uU19kva5EZp0sKFGBb9yxXYnNunVYFzvMEw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+            "alt": ""
+          },
+          {
+            "src": "https://s3-alpha-sig.figma.com/img/2b7c/87db/b5f573894bdf3f37c91338211f6cd089?Expires=1694995200&Signature=Jt9ORqRe1u0gLcB-4edZ0KpAnSbTLpDwAOTYz9pZDYFpPytUdmeRLEmyCmXjGQ1auyhbDoNn5TY1Hf4xd7LaSXJkHoKZUX9L93JShNfcP~jx6Iapr1FJAlKQ2mNI1JHcrERoo9-KDsOSjwllX39gH5ZlX5x-xKfU0D1pz02aSJJF0og8ruxaH9TUq35scs-DnZd2TeIIAFczX-KdoolUjIS39poDeVvAZQ0UVt~ZR0Q04QrnNQOZHYVem3d6O9qBGsb4hJ2euI8c~-0jooBoWMewxIIMP-UaunlsLj0osVs90GxNJ3iyXngz9IlVPiU~IHc6bSuGFfZO~L2Zkg6dUg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+            "alt": ""
+          },
+          {
+            "src": "https://s3-alpha-sig.figma.com/img/e9d9/eba7/289246cf939fbc5d8f02ed19ab6389d9?Expires=1694995200&Signature=D6kwHyDf9znKZGX7GxezpIIYD48GpVgUd46hInJydgNkGtfqBjDAMY7~y1ZAl8EqhVSx1jkdL~cDVNTz4DVAYG5As54D94zn03sKX6xJ1wxraKmO0Sy6vDsn1eAEImRO6bmkzcrvL3lE4dKst8cPr~TdpKcltkJ~kz-E~vQCFq0HPP66cvO0x1t7-lDrPcOyeZIFHn6-tM0EkYFUhxLTrlXKWE-SZlNdxmFK~hBYnUHDJdxxfI-~y2P0TQslhTg72fpq3YG6V3-x-Z9GWPuVsfXiDzSoKKxWosxW741SrPmikULpK95L-Z3bMcIcJX0qTMFBP8Z3D-F4xh4OV9KDCQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+            "alt": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "name": "Pastel",
+      "category": "Brick",
+      "price": 101,
+      "currency": "USD",
+      "image": {
+        "src": "https://s3-alpha-sig.figma.com/img/f954/cd7a/50071fa94a868724afdf1b2ccdb8f3f3?Expires=1694995200&Signature=ejNLkUIQrZgyX6i30O2-rzcB5DAvuGTbAZe5IWBzN7144X1TOkm1RL-xfTqmidlhjSBZlg1qcW0Fs8Z-HTF2Na34piUZlzJRjLMgR5hEqg3PnpbojTvHHCQtzlsgFdiWVRtgVtjg-VTGGIVialw1Ym2kpXKOLm2S1KcIoKR8cwOJ0~p~GJ25Vx2COWN8KSMKmDf6Ys-TulyDvNHWLjh2lRp3kKWs0or5zl8L6IhnuznQtxb2oliHbGxRRj2DhFR99tBpemNbEaFLm2QwWNB1voMjx7iLt91flIauZd2ZAkAVlI6DlOLykmijE-1J8~yhD5mcTWhLaHBbpDMyx9kUzQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": 7,
+      "name": "Reinforced",
+      "category": "Glass",
+      "price": 33.78,
+      "currency": "USD",
+      "image": {
+        "src": "https://s3-alpha-sig.figma.com/img/dfc4/b1dc/08637eb2ab4ac3cee519f86e450f713d?Expires=1694995200&Signature=qSJqMkPoGds7v6K5Qyp~QZ1LVv~7PrbHfz1UH8LFxf14DgrLDcEuyXWe4nMOlywkiJ5M44Ok-z8j-j9INVJASCtH-vQnQOP8k0LZj9b1YKi775taYgP1aJu2qOHoa5If~zVnQuZlZrwR07BgeON0uitJ6FVr6zEnaoYTMp~41svoMXGU7z8RWctrckfh6XBjnZtOp28T-orw~vJXUeyBtAMfXDP6tGU~Ww9EUMKYaVbNLKg-cR8JmaPt78xdDZfJwaxc1H~okpcB9imUov4SeP3uqFgYmFT0Mi2Sq9GeZ1aIEimy3MbFwUMbieAwmDob5hBj7Df4ZV7RypZmRguvrg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "alt": ""
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": 8,
+      "name": "Shape",
+      "category": "Steel",
+      "price": 93.89,
+      "currency": "USD",
+      "image": {
+        "src": "https://s3-alpha-sig.figma.com/img/3aa9/00c3/5a0394eae4e005329c210e14112e8d4d?Expires=1694995200&Signature=oP-4neEFbB-613dUIjxo~sQCuTPx6La~XAp8MZ3QFwQxgNsl~-rBY7kWyph9bcxq-3-fMo1m3GZyXLfokOCLlX5xq3YFYFBLRBmBrxvEeQTeWrbF48JOY8lJlt961lANtrGhqdmEQp4KYaGZ~YxG0hpdokLKGGjtd~2XRqE-DgpwXppVrUN2A854UHYNObIR9GZha9SqHdWWLUpe-4XfpInhacnjjUkJUebUMILW7Ps-LgEdrZwUwss39yA8dWZDHUU1h9IqTy2IXHCmwCeBPS26yKHNt5vJGn9eNqW--EMOZfS7VngwiZJWOB-p7EHp2rv~0ClOoTqvs2ofY7H6Dg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": 9,
+      "name": "Wave",
+      "category": "Steel",
+      "price": 120.21,
+      "currency": "USD",
+      "image": {
+        "src": "https://s3-alpha-sig.figma.com/img/fda7/8786/630da7797fa588cc5abca1b79b7e772a?Expires=1694995200&Signature=eS76pjhFT4UcyDB8yjqZ16jtPGve2KyhBP8EfWM2t6KwMVvdeaGkrgj9VArUy42muUTkx2obcgL9XDchSnxysxvfgyuJNDBvK3TaBlE9cVsJhbDTQ6iqTIszr2-NNlj6vwKRDmGi~ejCdHa1h34z9bDWpJL85Mmn8yIvkR3CPoGIfwuoLVOsu2PD4ZVFFJHy7oNgjLgm~S4Xu4nixJUp9QvcRSzZHiKJZ-GAKF9XynicCq3l0v9DSbkU6B-0n--iR6-vrMo-LCDThjR9zbFtYE3WHLcEDfwL-EoFb246aoWm7Niaj9MOra2VaEE4D-BO30qAZComaC6v5yz-VLyIzQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": 10,
+      "name": "Colored",
+      "category": "Glass",
+      "price": 100,
+      "currency": "USD",
+      "image": {
+        "src": "https://s3-alpha-sig.figma.com/img/6781/d0a9/d2436b39562e7a06c354314e0954a739?Expires=1694995200&Signature=h2Qncqhwg0889W8Bm4Tetj8B2ihqXVi1kR3z9Ibn3G6Hgx9gPId6Qb0Bna-32aAIafWsN3mi5k1BqUF5tvJ1cHHc0hSyx9FHejoD43LmFzGWDjqwoL51f5QBGwEV~ilIkOvFrg0cZ0fr22doRs1JCA0-dsOM3Q~blGBO8jkN1btY8JeTTgeR5ROWNbvrqsjjz7GjIYDTXaQ3mdS5NkbxnGxpF7S0kspPQsjwKuZN9mRIvMaFwIjgFjsc2-4ghW4KhDaLuICQFpEuSd5emrFj0zhzv6yP9wikrJSXH91GGVADimUKeqLArH34TGnZ~M1g2w25sL3825MfAVcKmp06tw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "id": 11,
+      "name": "RecycledPlastic",
+      "category": "Plastic",
+      "price": 101,
+      "currency": "USD",
+      "image": {
+        "src": "https://s3-alpha-sig.figma.com/img/f80d/8afc/00b142a6b4c5acdae33b76b0b5b7468e?Expires=1694995200&Signature=Z1BK5-halqMdF7dE7KHzXSrSFrTy8yQjMVcTMFalgcutyMA8ujiFmwqF37gixShSZF5Tvh4YKl25vIYKB3EKF7qDsSlkR~hpnmab3AEs9ytF43dRyRJiY8W4K~fOoSd0uc0zYTOpytQp9ZVippWa5gkFgqpvcZQAOL0lOh0SUdfTvQ4lDlZ8T7UcSQ-PWElTkvlx2gm6gQNw1tYmsEDJV5gEldXjY-9sJDy6tiR42n9kpV9C2K3lh9ql9j8kpcOeALSOAZJcWWrh3XvsuTNf~vcVXTmMQFztISPJcRP6jKIFWNYsEJYjEQK1vYflNiqxU6dDES7Xtols1tiiTmU-gw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": true,
+      "details": {
+        "weight": 2340,
+        "thickness": 2,
+        "description": "Plastic recycling is the reprocessing of plastic waste into new and useful products. When performed correctly, this can reduce dependence on landfill, conserve resources and protect the environment from plastic pollution and greenhouse gas emissions. Although recycling rates are increasing, they lag behind those of other recoverable materials, such as aluminium, glass and paper. The global recycling rate in 2015 was 19.5%, while 25.5% was incinerated and the remaining 55% disposed of to landfill. Since the beginning of plastic production in the 20th century, until 2015, the world has produced some 6.3 billion tonnes of plastic waste, only 9% of which has been recycled, and only ~1% has been recycled more than once.[6]",
+        "recommendations": [
+          {
+            "src": "https://s3-alpha-sig.figma.com/img/7e0e/443a/dbdb5707b25998cbba534cc6f73304a0?Expires=1694995200&Signature=mrGS02xEEXjyIRcw2yrlTRTE9L9aX9CLZB6crtA5Zt5BJufxgRMtRMruFmgHAyYKL2Z-fODZp1wP-mI5xhdwGcZa7aoj22hYGrHTB7qbhNaM~7rvDGiuZ5BPmPG3H0V3u84XY~9~VW7bY2uXqw5~dYhfffscq4sZwhPotijenY4xwUox5uXbHkUDZ3OP8KB2w8XYcEX5eiEs81FM1dq6BbiSWfYacuQ4Sm3VcTN475qkyg9eKuGXN-JUp0bUDu8ddcijyskG4hOuLPpob9RQ4dJOu6qkRQTd9zd0rhFVz2skOf8uf82uU19kva5EZp0sKFGBb9yxXYnNunVYFzvMEw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+            "alt": ""
+          },
+          {
+            "src": "https://s3-alpha-sig.figma.com/img/2b7c/87db/b5f573894bdf3f37c91338211f6cd089?Expires=1694995200&Signature=Jt9ORqRe1u0gLcB-4edZ0KpAnSbTLpDwAOTYz9pZDYFpPytUdmeRLEmyCmXjGQ1auyhbDoNn5TY1Hf4xd7LaSXJkHoKZUX9L93JShNfcP~jx6Iapr1FJAlKQ2mNI1JHcrERoo9-KDsOSjwllX39gH5ZlX5x-xKfU0D1pz02aSJJF0og8ruxaH9TUq35scs-DnZd2TeIIAFczX-KdoolUjIS39poDeVvAZQ0UVt~ZR0Q04QrnNQOZHYVem3d6O9qBGsb4hJ2euI8c~-0jooBoWMewxIIMP-UaunlsLj0osVs90GxNJ3iyXngz9IlVPiU~IHc6bSuGFfZO~L2Zkg6dUg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+            "alt": ""
+          },
+          {
+            "src": "https://s3-alpha-sig.figma.com/img/e9d9/eba7/289246cf939fbc5d8f02ed19ab6389d9?Expires=1694995200&Signature=D6kwHyDf9znKZGX7GxezpIIYD48GpVgUd46hInJydgNkGtfqBjDAMY7~y1ZAl8EqhVSx1jkdL~cDVNTz4DVAYG5As54D94zn03sKX6xJ1wxraKmO0Sy6vDsn1eAEImRO6bmkzcrvL3lE4dKst8cPr~TdpKcltkJ~kz-E~vQCFq0HPP66cvO0x1t7-lDrPcOyeZIFHn6-tM0EkYFUhxLTrlXKWE-SZlNdxmFK~hBYnUHDJdxxfI-~y2P0TQslhTg72fpq3YG6V3-x-Z9GWPuVsfXiDzSoKKxWosxW741SrPmikULpK95L-Z3bMcIcJX0qTMFBP8Z3D-F4xh4OV9KDCQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+            "alt": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "name": "Pastel",
+      "category": "Brick",
+      "price": 101,
+      "currency": "USD",
+      "image": {
+        "src": "https://s3-alpha-sig.figma.com/img/f954/cd7a/50071fa94a868724afdf1b2ccdb8f3f3?Expires=1694995200&Signature=ejNLkUIQrZgyX6i30O2-rzcB5DAvuGTbAZe5IWBzN7144X1TOkm1RL-xfTqmidlhjSBZlg1qcW0Fs8Z-HTF2Na34piUZlzJRjLMgR5hEqg3PnpbojTvHHCQtzlsgFdiWVRtgVtjg-VTGGIVialw1Ym2kpXKOLm2S1KcIoKR8cwOJ0~p~GJ25Vx2COWN8KSMKmDf6Ys-TulyDvNHWLjh2lRp3kKWs0or5zl8L6IhnuznQtxb2oliHbGxRRj2DhFR99tBpemNbEaFLm2QwWNB1voMjx7iLt91flIauZd2ZAkAVlI6DlOLykmijE-1J8~yhD5mcTWhLaHBbpDMyx9kUzQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    }
+  ]
+}
